@@ -1,3 +1,5 @@
+-> `loadstring(game:HttpGet(('https://raw.githubusercontent.com/horrormovies/AutoCandies-Mushyo-Roblox/refs/heads/main/code'),true))()`
+
 # Auto Coleta Mushyo 🚀
 
 Este script foi desenvolvido para o Mushyo, um jogo de voice 🎮, com o objetivo de otimizar a coleta de itens dentro do jogo. Ele permite que o jogador interaja de forma automática com os objetos coletáveis, garantindo uma experiência mais fluida e eficiente.
